@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"auto-save",
+		"Clipboard Manager",
+		"ColorPicker",
+		"CTags",
+		"Emmet",
+		"GitGutter",
+		"MarkdownEditing",
+		"Package Control",
+		"Ruby on Rails snippets",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}
